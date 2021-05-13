@@ -1,0 +1,1 @@
+celery -A celery_flask.cel worker --loglevel=info
